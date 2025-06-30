@@ -1,0 +1,32 @@
+class AssetPath {
+  static const appLogo = 'assets/svg/app_logo.svg';
+  static const onboarding1 = 'assets/icons/onboarding_1.png';
+  static const onboarding2 = 'assets/icons/onboarding_2.png';
+  static const onboarding3 = 'assets/icons/onboarding_3.png';
+  static const stripe = 'assets/icons/stripe.png';
+  static const afterpay = 'assets/icons/afterpay.png';
+  static const person = 'assets/svg/person.svg';
+  static const google = 'assets/svg/google_icon.svg';
+  static const facebook = 'assets/svg/facebook_icon.svg';
+  static const apple = 'assets/svg/apple_icon.svg';
+  static const successBack = 'assets/svg/success_back.svg';
+  static const location = 'assets/svg/location.svg';
+  static const myLocation = 'assets/svg/my_location.svg';
+  static const face = 'assets/svg/face.svg';
+  static const home = 'assets/svg/home.svg';
+  static const document = 'assets/svg/document.svg';
+  static const earning = 'assets/svg/earning.svg';
+  static const chat = 'assets/svg/chat.svg';
+  static const user = 'assets/svg/user.svg';
+  static const location_2 = 'assets/svg/location_2.svg';
+  static const filterIcon = 'assets/svg/filter.svg';
+  static const success = 'assets/svg/success.svg';
+  static const editIcon = 'assets/svg/edit.svg';
+  static const bell = 'assets/svg/bell.svg';
+  static const verified = 'assets/svg/verified.svg';
+  static const support = 'assets/svg/support.svg';
+  static const logout = 'assets/svg/logout.svg';
+  static const helpIcon = 'assets/svg/help_icon.svg';
+  static const upload = 'assets/svg/upload.svg';
+  static const notificationIcon = 'assets/svg/notification_icon.svg';
+}
